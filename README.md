@@ -21,8 +21,13 @@ Remove products from the inventory.
 Intuitive and user-friendly interface for easy navigation.
 
 ![Screenshot (9)](https://github.com/shainkyain/Shop-Inventory-Management/assets/116502451/603c859b-fc6b-4a8e-8ee4-96e1a90ff1c2)
+
 ![Screenshot (10)](https://github.com/shainkyain/Shop-Inventory-Management/assets/116502451/856d5582-8ecd-4443-ad24-c90b58e757c3)
+
+**Update existing Product**
 ![Screenshot (11)](https://github.com/shainkyain/Shop-Inventory-Management/assets/116502451/e16f114e-6f5f-48c8-b26d-dd0860d052ec)
+
+**Add new Product**
 ![Screenshot (12)](https://github.com/shainkyain/Shop-Inventory-Management/assets/116502451/52eaeba4-6948-4f94-b609-befbd2e6f87c)
 
 **Technologies Used:**
